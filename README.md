@@ -1,3 +1,3 @@
 # demo
 first Git repo
-Author- Varun VK
+Author- Varun (demo)
